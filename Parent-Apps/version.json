@@ -1,6 +1,6 @@
 {
-    "versionCode": 5,
-    "versionName": "1.5",
+    "versionCode": 6,
+    "versionName": "1.6",
     "changesLog": "Fixed bugs and improved performance.",
     "forceUpdate": true
 }
