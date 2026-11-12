@@ -1,6 +1,6 @@
 {
-    "versionCode": 9,
-    "versionName": "1.9",
+    "versionCode": 10,
+    "versionName": "2.0",
     "changesLog": "Fixed bugs and improved performance.",
     "forceUpdate": true
 }
